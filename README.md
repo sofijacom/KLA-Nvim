@@ -1,6 +1,6 @@
-# Neovim Setup for Ubuntu
+# Neovim Setup for Arch
 
-This repository contains a setup script to configure Neovim on Ubuntu. The setup includes installing Neovim, setting up a basic configuration, and installing plugins using Lazy and Mason.
+This repository contains a setup script to configure Neovim on Arch. The setup includes installing Neovim, setting up a basic configuration, and installing plugins using Lazy and Mason.
 ## Screenshots
 ### Dashboards(alpha)
 ![Dashboard](img/dashboard.png)
@@ -14,20 +14,6 @@ This repository contains a setup script to configure Neovim on Ubuntu. The setup
 ![File Finder](img/ff.png)
     
 
-## Prerequisites
-
-- Ubuntu (or any Debian-based distribution)
-- `git` installed
--Neovim installed(version>=0.9.0)
-### For Ubuntu 
-**Using Snap**
-  ```bash
-  sudo snap install --beta nvim --classic
-  ```
-**Using APT**
-  ```bash
-  sudo apt-get install neovim
-  ```
 ## Installation
 
 1. **Clone the repository:**
