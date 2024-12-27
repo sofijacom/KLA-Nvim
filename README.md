@@ -23,7 +23,7 @@ This repository contains a setup script to configure Neovim on Arch. The setup i
    ```
 2. **Install:**
    ```bash
-   cd nvim
+   cd KLA-Nvim
    chmod +x install.sh
    sudo ./install.sh
    ```
