@@ -19,7 +19,7 @@ This repository contains a setup script to configure Neovim on Arch. The setup i
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/nurul5801/nvim.git
+   git clone https://github.com/sofijacom/KLA-Nvim.git
    ```
 2. **Install:**
    ```bash
