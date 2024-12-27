@@ -4,14 +4,6 @@ This repository contains a setup script to configure Neovim on Arch. The setup i
 ## Screenshots
 ### Dashboards(alpha)
 ![Dashboard](img/dashboard.png)
-### File Explorer(Treesitter)
-![File Explorer](img/fileex.png)
-### Language Server
-![Language Server](img/lsp.png)
-### Code Action
-![Code Action](img/codeaction.png)
-### File Finder (telescope) 
-![File Finder](img/ff.png)
     
 
 ## Installation
