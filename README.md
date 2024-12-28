@@ -17,7 +17,7 @@ This repository contains a setup script to configure Neovim on Arch. The setup i
    ```bash
    cd ~/.config/nvim
    chmod +x install.sh
-   sudo ./install.sh
+   ./install.sh
    ```
 3. **important:**
     you should manually install 'clangd'-(for C/C++),'prettier'-(for JavaScript),'black'-(for python Lint),'ruff'-(for python Formatter) in nvim.Using 'Mason Install <NAME>' or "Mason" then select clangd,prettier,black,ruff and press 'i'. 
