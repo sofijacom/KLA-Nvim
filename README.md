@@ -19,6 +19,9 @@ This repository contains a setup script to configure Neovim on Arch. The setup i
    chmod +x install.sh
    ./install.sh
    ```
+
+## **Completion:**
+Wait until the required components are installed
    
 ## Usage
 After running the install.sh script, you can start Neovim by typing nvim in your terminal.The plugins should be installed and ready to use.
