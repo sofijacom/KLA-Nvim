@@ -15,7 +15,7 @@ This repository contains a setup script to configure Neovim on Arch. The setup i
    ```
 2. **Install:**
    ```bash
-   cd ~/.config/nvim
+   cd ~/.config/nvim || echo 2>&1
    chmod +x install.sh
    sudo ./install.sh
    ```
