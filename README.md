@@ -20,7 +20,7 @@ This repository contains a setup script to configure Neovim on Arch. The setup i
    ./install.sh
    ```
 
-## **Completion:**
+## Completion
 Wait until the required components are installed
    
 ## Usage
