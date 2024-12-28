@@ -1,6 +1,6 @@
 #!/bin/sh
 
-sudo pacman -Syu git ninja gettext libtool autoconf automake cmake pkgconf unzip curl doxygen
+sudo pacman -Syu git ninja gettext libtool autoconf automake cmake pkgconf unzip curl doxygen neovim
 git clone https://github.com/neovim/neovim nvim_install
 cd nvim_install
 git checkout stable
