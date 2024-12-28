@@ -5,6 +5,6 @@ git clone https://github.com/neovim/neovim nvim_install
 cd nvim_install
 git checkout stable
 make CMAKE_BUILD_TYPE=Release
-make install
+sudo make install
 cd ..
 rm -rf nvim_install
