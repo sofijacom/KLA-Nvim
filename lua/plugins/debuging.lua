@@ -25,7 +25,7 @@ return {
           stopAtEntry = true,
         },
         {
-          name = "Attach to gdbserver :1234",
+          name = "spot to gdbserver :1234",
           type = "cppdbg",
           request = "launch",
           MIMode = "gdb",
