@@ -2,7 +2,7 @@
 
 This repository contains a setup script to configure Neovim on Arch. The setup includes installing Neovim, setting up a basic configuration, and installing plugins using Lazy and Mason.
 ## Screenshots
-### Dashboards(alpha)
+### Dashboards
 ![Dashboard](img/dashboard.png)
     
 
